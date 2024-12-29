@@ -37,9 +37,8 @@ CREATE TABLE `auditor_report` (
 
 - 94% of records matched auditor scores; 6% showed discrepancies.
 - Four employees had significantly higher error rates than average.
-  ![Project Overview](./image/IMG_4180.jpg)
 - Incriminating statements linked errors to potential misconduct.
-
+    ![Project Overview](./image/IMG_4180.jpg)
 ## Recommendations
 
 - Employee Training: Improve training to reduce human error in data collection.
