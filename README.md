@@ -1,6 +1,6 @@
 # Maji Ndogo Audit Analysis
 This project analyzes the Maji Ndogo water project database to ensure data integrity, identify discrepancies, and uncover patterns in errors and their causes. It utilizes SQL, data modeling, and reporting to provide actionable insights into database inconsistencies and employee performance.
-![Project Overview](./image/IMG_4134.jpg)
+![Project Overview](./image/IMG_4134.jpg)   
 
 ## Project Objectives
 
@@ -37,6 +37,7 @@ CREATE TABLE `auditor_report` (
 
 - 94% of records matched auditor scores; 6% showed discrepancies.
 - Four employees had significantly higher error rates than average.
+  ![Project Overview](./image/IMG_4180.jpg)
 - Incriminating statements linked errors to potential misconduct.
 
 ## Recommendations
